@@ -1,0 +1,11 @@
+﻿  MagazaOtomasyonu.cpp
+C:\Users\RNET-24\source\repos\MagazaOtomasyonu\MagazaOtomasyonu\MagazaOtomasyonu.cpp(291,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\RNET-24\source\repos\MagazaOtomasyonu\MagazaOtomasyonu\MagazaOtomasyonu.cpp(311,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RNET-24\source\repos\MagazaOtomasyonu\MagazaOtomasyonu\MagazaOtomasyonu.cpp(334,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\RNET-24\source\repos\MagazaOtomasyonu\MagazaOtomasyonu\MagazaOtomasyonu.cpp(338,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\RNET-24\source\repos\MagazaOtomasyonu\MagazaOtomasyonu\MagazaOtomasyonu.cpp(356,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\RNET-24\source\repos\MagazaOtomasyonu\MagazaOtomasyonu\MagazaOtomasyonu.cpp(360,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\RNET-24\source\repos\MagazaOtomasyonu\MagazaOtomasyonu\MagazaOtomasyonu.cpp(378,28): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\RNET-24\source\repos\MagazaOtomasyonu\MagazaOtomasyonu\MagazaOtomasyonu.cpp(417,13): warning C4101: 'raiseAmount': unreferenced local variable
+C:\Users\RNET-24\source\repos\MagazaOtomasyonu\MagazaOtomasyonu\MagazaOtomasyonu.cpp(418,13): warning C4101: 'targetCost': unreferenced local variable
+  MagazaOtomasyonu.vcxproj -> C:\Users\RNET-24\source\repos\MagazaOtomasyonu\Debug\MagazaOtomasyonu.exe
